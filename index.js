@@ -62,8 +62,8 @@ function save() {
   // console.log(email.value)
   table();
 
-  // name.value = "";
-  // email.value = "";
+  name.value = "";
+  email.value = "";
 }
 
 function deleteData(index) {
